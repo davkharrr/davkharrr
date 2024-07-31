@@ -6,12 +6,11 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  💻 I'm interested in participating in CTF
+  🚩 I'm interested in participating in CTF
 </p>
 <p align="left">
-  💻 I'm interested in participating in CTF
+    🤖 I'm interested in Machine Learning
 </p>
-
 <h2 align="left">Certifications</h2>
 
 
