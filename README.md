@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋 I'm Davkharbayar </h1>
 
 ###
-<p align="left">Junior Cybersecurity student in MUST</p>
+<p align="left">Senior Cybersecurity student in MUST</p>
 
 <h2 align="left">About me</h2>
 
